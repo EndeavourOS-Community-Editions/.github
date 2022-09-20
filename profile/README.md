@@ -1,5 +1,5 @@
 # EndeavourOS Community Editions and Artwork
-
+<img src="https://raw.githubusercontent.com/endeavouros-team/artwork-images-logo/master/endeavouros-banner.png" alt="banner" width="600"/>
 Details about the Editions:
 
 https://discovery.endeavouros.com/category/window-tiling-managers
