@@ -17,6 +17,14 @@ Feel free to install them manually every Edition have inbstructions to do so.
 If you want to contribute to a new way to install them there is still the option to run custom scripts injected by entering URL to this in our welcome application.
 And we are open to provide tools or GUI to install them from already running systems per example.
 
+Something like this will work inside welcome script adding option:
+
+https://github.com/endeavouros-team/endeavouros-i3wm-setup/blob/main/i3_install
+
+![2023-09-06_15-10_1](https://github.com/EndeavourOS-Community-Editions/.github/assets/16797647/5aebc38e-4864-428a-b2c9-1523f6b30443)
+
+![2023-09-06_15-10](https://github.com/EndeavourOS-Community-Editions/.github/assets/16797647/0b5fb0dc-609f-479e-9669-94b961db089d)
+
 
 
 
