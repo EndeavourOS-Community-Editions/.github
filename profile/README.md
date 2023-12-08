@@ -17,7 +17,7 @@ Feel free to install them manually every Edition have inbstructions to do so.
 If you want to contribute to a new way to install them there is still the option to run custom scripts injected by entering URL to this in our welcome application.
 And we are open to provide tools or GUI to install them from already running systems per example.
 
-**If someone nwant to take over Maintainment simple open a new issue and ask about**
+**If someone want to take over Maintainment simple open a new issue and ask about**
 
 Something like this will work inside welcome script adding option:
 
