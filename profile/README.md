@@ -18,6 +18,8 @@ If you want to contribute to a new way to install them there is still the option
 And we are open to provide tools or GUI to install them from already running systems per example.
 
 **If someone want to take over Maintainment simple open a new issue and ask about**
+* you should be a known user at the forum or at least contributing and communication over GitHub for some  time before we will go to add you as maintainer.
+* start by doing a pull request.
 
 Something like this will work inside welcome script adding option:
 [
