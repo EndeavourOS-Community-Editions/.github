@@ -22,8 +22,7 @@ And we are open to provide tools or GUI to install them from already running sys
 * start by doing a pull request.
 
 Something like this will work inside welcome script adding option:
-[
-https://github.com/endeavouros-team/endeavouros-i3wm-setup/blob/main/i3_install](https://github.com/endeavouros-team/endeavouros-i3wm-setup/blob/main/i3_install_isomode)
+[setup_sway_isomode.bash](https://github.com/EndeavourOS-Community-Editions/sway/blob/main/setup_sway_isomode.bash)
 
 ![2023-09-06_15-10](https://github.com/EndeavourOS-Community-Editions/.github/assets/16797647/0b5fb0dc-609f-479e-9669-94b961db089d)
 
