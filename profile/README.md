@@ -1,5 +1,5 @@
 # EndeavourOS Community Editions and Artwork
-<img src="https://raw.githubusercontent.com/endeavouros-team/artwork-images-logo/master/icons/endeavouros-drop-shadow.png" alt="banner" width="200"/>
+<img src="https://raw.githubusercontent.com/endeavouros-team/artwork-images-logo/master/endeavouros-drop-shadow.png" alt="banner" width="200"/>
 
 Details about the Editions:
 
